@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- inject:newrelic -->
+    <!-- endinject -->
+
+    <!-- inject:inspectlet -->
+    <!-- endinject -->
+
+    <meta name="description" content="{{ngMeta['description']}}">
+    <title ng-bind="ngMeta.title"></title>
+    <meta name="fragment" content="!">
+    <meta property="fb:app_id" content="">
+    <meta property="og:url" content="{{ngMeta['og:url']}}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ngMeta['og:title']}}" />
+    <meta property="og:description" content="{{ngMeta['og:description']}}" />
+    <meta property="og:image" content="https://live.xpresstiming.com/images/social/facebook-card-square-7f34e25502.jpg" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="" />
+    <meta name="twitter:title" content="{{ngMeta['og:title']}}" />
+    <meta name="twitter:description" content="{{ngMeta['og:description']}}" />
+    <meta name="twitter:image" content="https://live.xpresstiming.com/images/social/twitter-card-square-7f34e25502.jpg" />
+    <meta name="twitter:image:alt" content="{{ngMeta['og:description']}}" />
+
+    <!-- inject:favicons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/favicons/apple-icon-57x57-4f7cd52dfa.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/favicons/apple-icon-60x60-3cfccc506b.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/favicons/apple-icon-72x72-0665751aa8.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/favicons/apple-icon-76x76-82f65b26de.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/favicons/apple-icon-114x114-549ea31e5a.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/favicons/apple-icon-120x120-d04f6ed827.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/favicons/apple-icon-144x144-70deec27df.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/favicons/apple-icon-152x152-912afa9bff.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-icon-180x180-e132d862ce.png">
+<link rel="icon" type="image/png" href="/images/favicons/favicon-32x32-e9f4882e4f.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicons/android-icon-192x192-17f0955f87.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/images/favicons/favicon-96x96-f33175e5e9.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/images/favicons/favicon-16x16-f9881f8e4d.png" sizes="16x16">
+<link rel="manifest" href="/images/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/images/favicons/ms-icon-144x144-70deec27df.png">
+<meta name="theme-color" content="#ffffff">
+
+    <!-- endinject -->
+    <link rel="icon" href="/images/favicons/favicon-849f3ae11e.ico">
+
+    <base href="/">
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- inject:analytics_header -->
+    <script type="text/javascript">
+    var _qevents = _qevents || []; (function () { var a = document.createElement("script"); a.src = ("https:" == document.location.protocol ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; a.async = !0; a.type = "text/javascript"; var b = document.getElementsByTagName("script")[0]; b.parentNode.insertBefore(a, b) })();
+</script>
+
+    <!-- endinject -->
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/main-546dbcf126.css">
+
+    <!-- inject:dfp -->
+    <script type="text/javascript">function initAdserver(e){pbjs.initAdserverSet||(pbjs.initAdserverSet=!0,googletag.cmd.push(function(){pbjs.que.push(function(){pbjs.setTargetingForGPTAsync(),googletag.pubads().refresh()})}))}var googletag=googletag||{};googletag.cmd=googletag.cmd||[];var slots=slots||[],pbjs=pbjs||{};pbjs.que=pbjs.que||[],googletag.cmd=googletag.cmd||[],function(){var e=document.createElement("script");e.async=!0,e.type="text/javascript";var a="https:"==document.location.protocol;e.src=(a?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);var i=document.createElement("script");i.async=!0,i.type="text/javascript",i.src=(a?"https:":"http:")+"//stage.athletic.net/Shared/scripts/prebid/prebid1.29.0.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(i,s)}();var PREBID_TIMEOUT=2e3,FAILSAFE_TIMEOUT=3e3;googletag.cmd.push(function(){googletag.pubads().disableInitialLoad()});var prebid_bidders_720=[{bidder:"conversant",params:{site_id:"116164",bidfloor:.1,secure:1}},{bidder:"criteo",params:{zoneId:1144130},labelAny:["phone"]},{bidder:"criteo",params:{zoneId:1143004},labelAny:["display","tablet"]},{bidder:"rubicon",params:{accountId:"18102",siteId:"188796",zoneId:"919942",floor:.1}},{bidder:"gumgum",params:{inSlot:7161},labelAny:["phone"]},{bidder:"gumgum",params:{inSlot:7162},labelAny:["display","tablet"]},{bidder:"sovrn",params:{tagid:"539836",reserve:.1},labelAny:["phone"]},{bidder:"sovrn",params:{tagid:"539833",reserve:.1},labelAny:["display","tablet"]}],prebid_sizes_banner=[[728,90],[320,50]];pbjs.que.push(function(){pbjs.setConfig({priceGranularity:{buckets:[{min:0,max:3,increment:.1},{min:3,max:8,increment:.25},{min:8,max:20,increment:1}]},sizeConfig:[{mediaQuery:"(min-width: 768px)",sizesSupported:[[728,90],[468,60],[300,250],[320,50],[300,50],[640,480],[320,240],[1,1]],labels:["tablet"]},{mediaQuery:"(min-width: 0px) and (max-width: 767px)",sizesSupported:[[480,80],[468,60],[300,250],[320,50],[300,50],[120,20],[168,28],[640,480],[320,240],[1,1]],labels:["phone"]}]}),pbjs.addAdUnits([{code:"ad_ATF_Banner",mediaTypes:{banner:{sizes:prebid_sizes_banner}},bids:prebid_bidders_720},{code:"ad_BTF_Banner",mediaTypes:{banner:{sizes:prebid_sizes_banner}},bids:prebid_bidders_720}])}),googletag.cmd.push(function(){var e=googletag.sizeMapping().addSize([100,100],[88,31]).addSize([320,400],[[320,50],[300,50]]).addSize([768,200],[728,90]).addSize([1050,200],[[728,90]]).build(),a=googletag.sizeMapping().addSize([0,0],[[300,50],[320,50]]).addSize([750,200],[[728,90],[728,60],[468,60]]).build(),t=googletag.sizeMapping().addSize([0,0],[[300,250]]).addSize([750,200],[[300,250]]).build();slots=[{name:"resultAdSlot",adUnit:"result-ad",adUnitPath:"/113148692/result-ad",size:[300,250],sizeMapping:t,displayed:!1},{name:"bannerAdSlot",adUnit:"leaderboard",adUnitPath:"/113148692/leaderboard",size:[300,50],sizeMapping:a,displayed:!1},{name:"ad_ATF_Banner",adUnit:"ad_ATF_Banner",adUnitPath:"/1011615/Responsive//ATF_Banner",size:[728,90],sizeMapping:e,displayed:!1},{name:"ad_BTF_Banner",adUnit:"ad_BTF_Banner",adUnitPath:"/1011615/Responsive//BTF_Banner",size:[728,90],sizeMapping:e,displayed:!1}],googletag.pubads().setTargeting("Tag","notag"),googletag.pubads().setTargeting("Property","live"),googletag.pubads().setTargeting("Page","LiveResults"),googletag.pubads().collapseEmptyDivs(!0),googletag.enableServices()});</script>
+    <!-- endinject -->
+    <script src="https://players.brightcove.net/6055873638001/OGCfuWfEV_default/index.min.js"></script>
+</head>
+
+<body ng-controller="ApplicationController" ng-class="{'side-menu-open': sideMenu.open}">
+    <div class="canvas d-flex flex-column">
+        <header tm-header-menu meet="meet" ng-show="!isFullScreen()"></header>
+
+        <main class="main-content d-flex">
+            <tm-side-menu class="side-menu"></tm-side-menu>
+            <div class="background-curtain" ng-click="closeSideMenu()"></div>
+
+            <div ui-view id="meetContainer" class="d-flex flex-column">
+                <noscript>
+                    <div class="noscript-loading-screen">
+                        <p>
+                            <img src="/images/sitelogo_alive_gradient-f6277b3c7a.svg" alt="AthleticLIVE" width="206">
+                        </p>
+                        <h3>Javascript Required</h3>
+                        <p>We're sorry, but AthleticLIVE doesn't work without Javascript enabled. Please enable Javascript to
+                            use AthleticLIVE.</p>
+                    </div>
+                </noscript>
+                <div class="loading-screen">
+                    <div class="loading-screen--site-logo">
+                        <img src="/images/sitelogo-b22f030e6f.png" alt="Xpress Timing" style="">
+                    </div>
+                    <div class="loading-screen--circles d-flex">
+                        <div class="primary"></div>
+                        <div class="primary"></div>
+                        <div class="primary"></div>
+                        <div class="primary"></div>
+                        <div class="alternate"></div>
+                        <div class="alternate"></div>
+                        <div class="alternate"></div>
+                        <div class="alternate"></div>
+                    </div>
+
+                    <!-- inject:alive_loading_logo -->
+                    <div class="loading-screen--primary-site-logo">
+    <img src="/images/sitelogo_alive_gradient-f6277b3c7a.svg" alt="AthleticLIVE">
+</div>
+
+                    <!-- endinject -->
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="/js/vendor/bower_components/requirejs/require.js" data-main="/js/main-d6ee953746"></script>
+
+    <!-- inject:analytics -->
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-297644-6', 'auto'); // 'auto' live, 'none' dev
+ga('create', 'UA-143360809-1', 'auto', 'xpress'); // 'auto' live, 'none' dev
+</script>
+    <!-- endinject -->
+
+    <!-- inject:analytics_footer -->
+    <!-- Begin comScore Tag -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "22801758" });
+    (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=22801758&cv=2.0&cj=1" /></noscript>
+<!-- End comScore Tag -->
+
+<!-- Begin Quantcast Tag, part 2 - part one in header -->
+<script type="text/javascript">
+    _qevents.push([{ qacct: "p-357yONfRnfd4g" }, { qacct: "p-56TeoNo_KrtZ6" }]);
+</script>
+<noscript>
+    <div style="display: none;">
+        <img src="//pixel.quantserve.com/pixel/p-357yONfRnfd4g.gif" border="0" height="1" width="1" alt="Quantcast" />
+        <img src="//pixel.quantserve.com/pixel/p-56TeoNo_KrtZ6.gif" border="0" height="1" width="1" alt="Quantcast"/>
+    </div>
+</noscript>
+<!-- End Quantcast Tag, part 2 -->
+
+    <!-- endinject -->
+</body>
+
+</html>

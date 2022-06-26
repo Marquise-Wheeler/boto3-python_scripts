@@ -1,6 +1,10 @@
 #!/usr/bin/env Python3
 
-#import boto3
+import boto3
+import os
+import glob
+
+s3_resource=boto3.client("s3")
 
 
 #s3_resource=boto3.client("s3")
@@ -9,14 +13,19 @@
 #    Key='Give-a-man-fish.png')
 
 ###################################    
-#delete multiple objects
-import boto3
-import os
-import glob
-
-s3_resource=boto3.client("s3")
- 
+# Find all bucket objects
 objects=s3_resource.list_objects(Bucket="techrescue")["Contents"]
-print(len(objects))
+print("The total number of objects are:", len(objects))
+
+# iteration
+for object in objects:
+    print(object["Key"])
 
 ###################################  
+#delete multiple objects and print responses
+for object in objects:
+    response=s3_resource.delete_object(Bucket='techrescue',
+      Key=object["Key"])
+    print(response)
+    
+    
